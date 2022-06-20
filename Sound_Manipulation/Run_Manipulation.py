@@ -24,3 +24,4 @@ if __name__ == "__main__":
     # print(args.output)
     # print(args.length)
     CutSound(args.input, args.output, args.length)
+    # python3 Run_Manipulation.py --input "/mnt/c/summer_2022/input/RC_2.wav" --output "/mnt/c/summer_2022/missile_frequency/output_sound" --length 4000
